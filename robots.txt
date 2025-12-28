@@ -1,0 +1,6 @@
+
+User-agent: *
+Allow: /
+Disallow: /portal-x-admin
+
+Sitemap: https://modbim.solution/sitemap.xml

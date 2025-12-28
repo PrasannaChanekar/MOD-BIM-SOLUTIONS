@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://modbim.solution/</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://modbim.solution/#/services</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://modbim.solution/#/portfolio</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://modbim.solution/#/courses</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://modbim.solution/#/about</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://modbim.solution/#/contact</loc>
+    <lastmod>2024-12-01</lastmod>
+    <priority>0.9</priority>
+  </url>
+</urlset>

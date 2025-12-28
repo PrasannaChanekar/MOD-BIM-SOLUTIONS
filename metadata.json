@@ -1,0 +1,11 @@
+{
+  "name": "MODBIM SOLUTION",
+  "short_name": "MODBIM",
+  "description": "Premium AEC and BIM consultancy for structural engineering, ISO 19650 compliance, and high-fidelity digital twin technology.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "theme_color": "#030712",
+  "background_color": "#030712",
+  "display": "standalone"
+}
